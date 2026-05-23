@@ -21,10 +21,18 @@ export function Contact() {
   const onSubmit = async (data: FormData) => {
     setIsSubmitting(true);
     setSubmitResult(null);
-    
-    // Using client's access key: f139e6c6-1550-4a3a-bd1d-9c84e00ce136
-    const accessKey = "f139e6c6-1550-4a3a-bd1d-9c84e00ce136";
-    console.log("Submitting with Access Key:", accessKey);
+
+    // Get key from environment variable
+    const accessKey = import.meta.env.VITE_WEB3FORMS_ACCESS_KEY;
+
+    if (!accessKey) {
+      setSubmitResult({
+        success: false,
+        message: "Configuration error. Please contact us directly by phone."
+      });
+      setIsSubmitting(false);
+      return;
+    }
 
     try {
       const response = await fetch("https://api.web3forms.com/submit", {
