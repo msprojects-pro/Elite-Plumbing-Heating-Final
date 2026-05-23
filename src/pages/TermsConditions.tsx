@@ -54,7 +54,7 @@ export function TermsConditions() {
               </section>
 
               <p className="pt-8 border-t border-white/10 text-sm text-slate-500 italic text-center">
-                Last updated: May 2024. Elite Plumbing & Heating reserves the right to update these terms at any time.
+                Last updated: May 2026. Elite Plumbing & Heating reserves the right to update these terms at any time.
               </p>
             </div>
           </motion.div>
