@@ -1,20 +1,16 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+Elite Plumbing & Heating | Professional Service & Repair
 
-# Run and deploy your AI Studio app
+Welcome to the official repository for Elite Plumbing & Heating. This project is a premium service-industry website designed to project reliability, technical expertise and for residential and commercial plumbing needs.
 
-This contains everything you need to run your app locally.
+✨ Key Features
+Service-Oriented Architecture: Clear, intuitive layout focused on high-conversion service categories.
+Modern Industrial Aesthetic: A clean, professional look to build brand trust.
+Fully Responsive: Optimized for mobile users—crucial for customers seeking emergency plumbing services.
+High Performance: Built with Vite for rapid load times, ensuring users find help without delay.
 
-View your app in AI Studio: https://ai.studio/apps/1516584b-fb5b-49ea-b3b7-b863599fc378
-
-## Run Locally
-
-**Prerequisites:**  Node.js
+## 🚀 Live Demo
+View the live site here: [URL here]
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Designed & Developed by Muhammad Sufyan
+Digital Strategist & Web Designer
