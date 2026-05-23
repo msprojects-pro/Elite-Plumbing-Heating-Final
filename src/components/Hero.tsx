@@ -49,7 +49,7 @@ export function Hero() {
             className="text-lg md:text-xl text-slate-400 mb-10 leading-relaxed max-w-2xl"
           >
             Professional, reliable service you can depend on. Family-run business with 
-            over 20+ years of experience serving Lisburn, Belfast & surrounding areas.
+            over 20+ years of combined experience serving Lisburn, Belfast & surrounding areas.
           </motion.p>
 
           <motion.div
