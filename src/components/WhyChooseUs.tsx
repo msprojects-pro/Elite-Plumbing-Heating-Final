@@ -43,7 +43,7 @@ export function WhyChooseUs() {
                 Professionals You Can <span className="text-brand-blue">Always Depend On</span>
               </h3>
               <p className="text-slate-400 text-lg mb-10">
-                Choosing a plumber is about trust. With over 20 years combined experience we've proven we are
+                Choosing a plumber is about trust. With over 20 years combined experience, we've proven we are
                 Lisburn's most reliable team.
               </p>
               <div className="p-8 bg-white/5 rounded-3xl border border-white/5">
