@@ -1,6 +1,0 @@
-{
-  "name": "Elite Plumbing & Heating",
-  "description": "Professional family-run plumbing and heating company in Lisburn & Belfast. Experts in boiler replacements, oil to gas conversions, and bathroom installations.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
