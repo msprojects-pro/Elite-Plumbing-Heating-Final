@@ -15,7 +15,7 @@ export function Footer() {
             <Logo className="mb-6" />
             <p className="text-slate-400 mb-8 leading-relaxed">
               Family-run plumbing and heating experts. Serving Lisburn, Belfast, and 
-              surrounding areas with professional, honest craftsmanship. Oover 20 years combined experience.
+              surrounding areas with professional, honest craftsmanship. Over 20 years combined experience.
             </p>
             <div className="flex gap-4">
               <a 
