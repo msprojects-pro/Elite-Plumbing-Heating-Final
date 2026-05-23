@@ -1,0 +1,11 @@
+# robots.txt for Elite Plumbing & Heating
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://yourdomain.com/sitemap.xml
+
+# Disallow admin or sensitive paths (optional)
+Disallow: /admin/
+Disallow: /private/
